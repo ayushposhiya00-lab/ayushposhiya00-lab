@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Ayush Poshiya.
 
-<!--
-**ayushposhiya00-lab/ayushposhiya00-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+I'm a second-year B.Tech Computer Engineering student at CHARUSAT.
 
-Here are some ideas to get you started:
+I am passionate about Artificial Intelligence and Data Structures & Algorithms. Currently, I am strengthening my Python programming and problem-solving skills while building practical AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to become an AI Engineer by continuously learning, building impactful projects, and contributing to the AI community.
+
+## 💻 Skills
+
+- C
+- C++
+- Python
+- HTML
+- CSS
+- Numpy
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+
+## Connect 
+
+- LinkedIn: https://www.linkedin.com/in/ayush-poshiya-a30234385/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BERgINYKNScGzjKfBm5Emag%3D%3D
+- Email: ayushposhiya00@gmail.com
