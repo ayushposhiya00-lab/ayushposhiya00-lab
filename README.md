@@ -1,72 +1,99 @@
-# 💻 Ayush Poshiya
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Living%20by%20Design&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Not%20by%20Default&descAlignY=55&descSize=20"/>
-</p>
+# 👋 Hey, I'm Ayush Poshiya
 
-<h1 align="center">🤖 AI/ML Enthusiast</h1>
+### 💻 Computer Engineering Student  | AI/ML Learner
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Skills+One+Project+at+a+Time;Python+Developer;AI%2FML+Explorer;DSA+Enthusiast;Always+Learning+Something+New" />
 
----
+### ✨ *"Learn Relentlessly • Build Consistently • Improve Daily"*
 
-## 📋 About Me
-
-- 🎓 2nd Year B.Tech CE Student at CHARUSAT
-- 🌱 Learning **Python, NumPy, Dsa**
-- 🧠 Interested in **AI Projects**
-- ⚡ Mantra: **
-- 🎯 Goal: Get an **AI/ML Internship**
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 About Me
 
-### Languages
+- 🎓 B.Tech Computer Engineering Student
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🧩 Practicing Data Structures & Algorithms
+- 🌱 *"Learn Relentlessly • Build Consistently • Improve Daily"*
+- 🎯 Goal: Become a Software Engineer & AI Engineer
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+## 🌐 Web Development
 
-### Tools
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+## 📊 Data Science
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+</p>
+
+## ⚙ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📌 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+- 🎯 StudentHub Portal
+- 🤖 AI Placement Preparation Platform
+- 📚 Machine Learning Roadmap
+- 💡 Python Projects
+- 🧩 LeetCode & DSA
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="ayushposhiya00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-poshiya-a30234385/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/ayushposhiya00-lab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-## 🌐 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="mailto:ayushposhiya00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ayushposhiya00-lab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
+*"Success is built through consistent effort, not overnight results."*
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</div>
