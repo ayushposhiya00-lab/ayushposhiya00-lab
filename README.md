@@ -4,7 +4,7 @@
 
 ### 💻 Computer Engineering Student | AI/ML Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Skills+One+Day+at+a+Time;AI%2FML+Explorer;DSA+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Skills;AI%2FML+Explorer;DSA+Enthusiast;Always+Learning+Something+New" />
 
 ### ✨ *"Learn Relentlessly • Build Consistently • Improve Daily"*
 
@@ -19,8 +19,6 @@
 - 🧩 Practicing Data Structures & Algorithms
 - 🌱 Believe in continuous learning and self-improvement
 - 🎯 Goal: Become a Software Engineer & AI Engineer
-
----
 
 # 🛠 Tech Stack
 
@@ -39,11 +37,16 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-## 📊 Libraries & Tools
+## 📊 Libraries
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
+
+## 🛠 Tools
+
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
@@ -55,15 +58,11 @@
 - 📌 Object-Oriented Programming
 - 📌 Computer Networks
 
----
-
 # 📌 Currently Working On
 
-- 💡 Python Projects
 - 🧩 LeetCode & DSA
-- 🤖 Learning AI & Machine Learning
-- 🚀 Building Resume-Level Projects
-
+- 🤖 Learning AI
+  
 ---
 
 # 🤝 Connect With Me
