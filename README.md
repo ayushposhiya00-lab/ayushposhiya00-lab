@@ -85,30 +85,6 @@
 
 ---
 
-## 💼 Skills Summary
-
-### 💻 Programming Languages
-- C
-- C++
-- Python
-
-### 🌐 Web Technologies
-- HTML
-- CSS
-
-### 📚 Libraries & Tools
-- NumPy
-- Pandas
-- Git
-- GitHub
-
-### 🧠 Subjects
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Computer Networks
-
----
-
 <div align="center">
 
 ⭐ **"Success is built through consistent effort, not overnight results."**
