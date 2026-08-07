@@ -4,10 +4,6 @@
 
 ### ✨ *"Learn Relentlessly • Build Consistently • Improve Daily"*
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80" alt="Coding Banner" width="100%">
-</p>
-
 ---
 
 # 🚀 About Me
@@ -17,8 +13,6 @@
 - 🧩 Practicing Data Structures & Algorithms
 - 🌱 Believe in continuous learning and self-improvement
 - 🎯 Goal: Become a Software Engineer & AI Engineer
-
----
 
 # 🛠 Tech Stack
 
@@ -36,8 +30,6 @@
 - 📌 Object-Oriented Programming
 - 📌 Computer Networks
 
----
-
 # 📌 Currently Working On
 
 - 🧩 LeetCode & DSA
@@ -49,6 +41,8 @@
 
 ---
 
-<p align="center">
-⭐ <b><i>"Success is built through consistent effort, not overnight results."</i></b>
-</p>
+⭐ **"Success is built through consistent effort, not overnight results."**
+
+
+
+ishko thoda acha kar do and start me koi acha background image add karo lekin data add mat karana ye hi rakhna
