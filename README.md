@@ -1,19 +1,16 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding Animation">
-</p>
 # 👋 Hey, I'm Ayush Poshiya
 
-<h3 align="center">
-💻 Computer Engineering Student • AI/ML Learner
-</h3>
+### 💻 Computer Engineering Student | AI/ML Learner
+
+### ✨ *"Learn Relentlessly • Build Consistently • Improve Daily"*
 
 <p align="center">
-✨ <b><i>"Learn Relentlessly • Build Consistently • Improve Daily"</i></b>
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80" alt="Coding Banner" width="100%">
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech Computer Engineering Student
 - 🤖 Exploring Artificial Intelligence & Machine Learning
@@ -23,17 +20,17 @@
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
-### 🌐 Web Technologies
+## 🌐 Web Technologies
 
-### 📊 Libraries
+## 📊 Libraries
 
-### 🛠 Tools
+## 🛠 Tools
 
-### 📚 Core Subjects
+## 📚 Core Subjects
 
 - 📌 Data Structures & Algorithms
 - 📌 Object-Oriented Programming
@@ -41,17 +38,17 @@
 
 ---
 
-## 📌 Currently Working On
+# 📌 Currently Working On
 
 - 🧩 LeetCode & DSA
 - 🤖 Learning AI
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 ---
 
 <p align="center">
-  ⭐ <b><i>"Success is built through consistent effort, not overnight results."</i></b>
+⭐ <b><i>"Success is built through consistent effort, not overnight results."</i></b>
 </p>
