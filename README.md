@@ -8,7 +8,7 @@
 
 ### ✨ *"Learn Relentlessly • Build Consistently • Improve Daily"*
 
-
+</div>
 
 ---
 
@@ -45,6 +45,13 @@
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib"/>
+</p>
+
+## 🗄️ Query Language
+
+<p>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ## 🔧 Tools
@@ -89,7 +96,7 @@
 </a>
 
 </p>
-</div>
+
 ---
 
 <div align="center">
