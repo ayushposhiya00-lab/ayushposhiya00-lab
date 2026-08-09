@@ -8,7 +8,7 @@
 
 ### ✨ *"Learn Relentlessly • Build Consistently • Improve Daily"*
 
-</div>
+
 
 ---
 
@@ -89,7 +89,7 @@
 </a>
 
 </p>
-
+</div>
 ---
 
 <div align="center">
