@@ -79,6 +79,48 @@
 
 ---
 
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushposhiya00-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushposhiya00-lab&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ayushposhiya00-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushposhiya00-lab&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/ayushposhiya00-lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=REPO_NAME_1&theme=tokyonight&hide_border=true"/>
+</a>
+<a href="https://github.com/ayushposhiya00-lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+> ⚠️ Upar `REPO_NAME_1` aur `REPO_NAME_2` ki jagah apne actual repository names daal dena.
+
+---
+
 # 🤝 Connect With Me
 
 <p>
