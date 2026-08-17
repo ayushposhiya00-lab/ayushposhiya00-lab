@@ -96,22 +96,6 @@
 
 
 
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/ayushposhiya00-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=TMDB Movie Recommendation System&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/ayushposhiya00-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-> ⚠️ Upar `REPO_NAME_1` aur `REPO_NAME_2` ki jagah apne actual repository names daal dena.
 
 ---
 
