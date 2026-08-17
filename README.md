@@ -94,13 +94,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushposhiya00-lab&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
@@ -109,7 +103,7 @@
 <div align="center">
 
 <a href="https://github.com/ayushposhiya00-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=REPO_NAME_1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=TMDB Movie Recommendation System&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/ayushposhiya00-lab">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=REPO_NAME_2&theme=tokyonight&hide_border=true"/>
