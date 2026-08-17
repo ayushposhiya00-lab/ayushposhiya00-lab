@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib"/>
 </p>
 
-## 🗄️ Query Language
+## 🗄️ Data Set
 
 <p>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -77,22 +77,6 @@
 - 🤖 Learning AI & Machine Learning
 - 🚀 Building Resume-Level Projects
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushposhiya00-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushposhiya00-lab&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ayushposhiya00-lab&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
 
 
 
