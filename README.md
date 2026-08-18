@@ -100,12 +100,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-
-
-
-
 <a href="https://portfolio-three-phi-r2feeoi3rj.vercel.app" target="_blank">
-  🌐 Portfolio Website
+  <img src="https://img.shields.io/badge/Portfolio-Ayush%20Poshiya-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </p>
