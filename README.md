@@ -101,7 +101,7 @@
 </a>
 
 <a href="https://portfolio-three-phi-r2feeoi3rj.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Ayush%20Poshiya-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge" />
 </a>
 
 </p>
