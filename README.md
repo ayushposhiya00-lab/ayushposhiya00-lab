@@ -102,9 +102,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://portfolio-three-phi-r2feeoi3rj.vercel.app" target="_blank">
+<!-- <a href="https://portfolio-three-phi-r2feeoi3rj.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge" />
-</a>
+</a> -->
 
 </p>
 
