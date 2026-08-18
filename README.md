@@ -4,7 +4,9 @@
 
 ### 💻 Computer Engineering Student | AI/ML Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Turning data into decisions, and logic into software.;AI%2FML+Explorer;DSA+Enthusiast;Always+Learning+Something+New" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Turning+data+into+decisions%2C+and+logic+into+software.;AI%2FML+Explorer;DSA+Enthusiast;Always+Learning+Something+New" />
+</p>
 
 ### ✨ *"Learn Relentlessly • Build Consistently • Improve Daily"*
 
