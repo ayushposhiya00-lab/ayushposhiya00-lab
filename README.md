@@ -33,7 +33,7 @@ class Ayush:
         self.role     = "B.Tech Computer Engineering Student"
         self.focus    = ["Artificial Intelligence", "Machine Learning", "Data Structures & Algorithms"]
         self.learning = ["Python Projects", "LeetCode", "Building Resume-Level Projects"]
-        self.goal     = "Software Engineer & AI Engineer"
+        self.role = "B.Tech Computer Engineering Student | Aspiring AI/ML Engineer & Data Scientist"
         self.motto    = "Learn Relentlessly • Build Consistently • Improve Daily"
 
     def say_hi(self):
