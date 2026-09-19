@@ -89,18 +89,6 @@ class Ayush:
 
 <br/>
 
-## 🚀 Featured Projects
-
-<!--
-  Replace the placeholders below with your real projects.
-  Keep 2–4 of your best ones. Recruiters look here first.
--->
-
-| Project | Description | Tech |
-|:--------|:------------|:-----|
-| 🔹 **[Project Name](https://github.com/ayushposhiya00-lab/REPO-NAME)** | One line about what it does and the problem it solves. | `Python` `Pandas` |
-| 🔹 **[Project Name](https://github.com/ayushposhiya00-lab/REPO-NAME)** | One line about what it does and the problem it solves. | `C++` `DSA` |
-| 🔹 **[Project Name](https://github.com/ayushposhiya00-lab/REPO-NAME)** | One line about what it does and the problem it solves. | `HTML` `CSS` `JS` |
 
 <br/>
 
