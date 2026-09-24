@@ -85,7 +85,7 @@ class Ayush:
 <img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="Frontend Development"/>
 
 <h3>🤖 Data Science & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&perline=3" alt="Data Science & Libraries"/>
+<img src="./assets/data-science-icons.svg" width="168" alt="NumPy, Pandas, Matplotlib"/>
 
 <h3>⚙️ Backend & Database</h3>
 <img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="Database"/>
@@ -114,6 +114,8 @@ class Ayush:
 <img src="https://streak-stats.demolab.com?user=ayushposhiya00-lab&background=0F2027&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=203A43&border=203A43" alt="GitHub Streak"/>
 
 </div>
+
+<br/>
 
 
 <br/>
