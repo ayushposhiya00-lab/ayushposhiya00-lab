@@ -27,13 +27,15 @@
 
 ## 👨‍💻 About Me
 
+I'm **Ayush Poshiya**, a B.Tech Computer Engineering student who is passionate about Artificial Intelligence, Machine Learning and problem solving.
+I enjoy building practical projects while continuously improving my programming and Data Structures & Algorithms skills.
+
 ```python
 class Ayush:
     def __init__(self):
-        self.role     = "B.Tech Computer Engineering Student"
+        self.role     = "B.Tech Computer Engineering Student | Aspiring AI/ML Engineer & Data Scientist"
         self.focus    = ["Artificial Intelligence", "Machine Learning", "Data Structures & Algorithms"]
         self.learning = ["Python Projects", "LeetCode", "Building Resume-Level Projects"]
-        self.role = "B.Tech Computer Engineering Student | Aspiring AI/ML Engineer & Data Scientist"
         self.motto    = "Learn Relentlessly • Build Consistently • Improve Daily"
 
     def say_hi(self):
@@ -42,66 +44,87 @@ class Ayush:
 
 <br/>
 
-## 🛠️ Tech Stack
+<!-- ===================== FEATURED PROJECTS =====================
+     This section is commented out until you add real projects.
+     1. Replace YOUR_REPO_NAME_1 / YOUR_REPO_NAME_2 with your actual repository names
+     2. Update the descriptions
+     3. Remove the comment markers that wrap this whole block (the first line of this comment and the last line of the block)
 
-**Languages**
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ayushposhiya00-lab/YOUR_REPO_NAME_1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=YOUR_REPO_NAME_1&theme=transparent&title_color=00C2FF&text_color=ffffff&icon_color=00C2FF&border_color=203A43" alt="Project 1"/>
+      </a>
+      <br/>
+      Short one-line description of your first project.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ayushposhiya00-lab/YOUR_REPO_NAME_2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayushposhiya00-lab&repo=YOUR_REPO_NAME_2&theme=transparent&title_color=00C2FF&text_color=ffffff&icon_color=00C2FF&border_color=203A43" alt="Project 2"/>
+      </a>
+      <br/>
+      Short one-line description of your second project.
+    </td>
+  </tr>
+</table>
 
-**Web**
+<br/>
+-->
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-**Data Science & Libraries**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-</p>
+<h3>💻 Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py&perline=4" alt="Programming Languages"/>
 
-**Database**
+<h3>🌐 Frontend Development</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js&perline=3" alt="Frontend Development"/>
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
+<h3>🤖 Data Science & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib&perline=3" alt="Data Science & Libraries"/>
 
-**Tools**
+<h3>⚙️ Backend & Database</h3>
+<img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="Database"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-</p>
+<h3>🔧 Tools & Technologies</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools & Technologies"/>
 
-**Core CS Subjects**
+<h3>📚 Core CS Subjects</h3>
+<img src="https://img.shields.io/badge/DATA_STRUCTURES_%26_ALGORITHMS-0d1117?style=flat-square" alt="DSA"/>
+<img src="https://img.shields.io/badge/OOP-0d1117?style=flat-square" alt="OOP"/>
+<img src="https://img.shields.io/badge/COMPUTER_NETWORKS-0d1117?style=flat-square" alt="Computer Networks"/>
 
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Computer Networks`
+</div>
 
 <br/>
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://raw.githubusercontent.com/ayushposhiya00-lab/ayushposhiya00-lab/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats"/>
+<img width="49%" src="https://raw.githubusercontent.com/ayushposhiya00-lab/ayushposhiya00-lab/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages"/>
 
 <br/>
 
-## 🌱 Currently Working On
+<img src="https://streak-stats.demolab.com?user=ayushposhiya00-lab&background=0F2027&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&stroke=203A43&border=203A43" alt="GitHub Streak"/>
 
-- 🐍 Building Python projects
-- 🧩 Solving problems on LeetCode & strengthening DSA
+</div>
+
+
+<br/>
+
+## 🎯 Current Focus
+
 - 🤖 Learning Artificial Intelligence & Machine Learning
+- 💻 Solving problems on LeetCode & strengthening Data Structures & Algorithms
+- 🐍 Building Python projects
 - 📁 Creating resume-level projects
-
-<br/>
-
-
+- 📚 Continuous learning
 
 <br/>
 
@@ -123,10 +146,13 @@ I'm open to internships, collaborations, and learning opportunities. Feel free t
 
 <a href="mailto:ayushposhiya00@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/ayush-poshiya-a30234385/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/ayushposhiya00-lab"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
 *"Success is built through consistent effort, not overnight results."*
+
+Building, learning and turning ideas into working projects. 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Footer"/>
 
